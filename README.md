@@ -45,6 +45,7 @@ Ngày nay, nhu cầu giải trí của mọi người ngày càng tăng cao tron
 4.4. Trò chơi:
 
 ![image](https://user-images.githubusercontent.com/73823742/190066565-43d40a03-3524-4e53-9399-eece13c60886.png)
+![Capture](https://github.com/HuynhAiQuoc/FrontEnd-ChatApp/assets/73823742/cb57d689-37bf-4176-acb4-de3e76a6f71f)
 
 4.5. Điểm số:
 
